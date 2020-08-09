@@ -2,6 +2,8 @@
 
 Live Demo: https://tiktok-clone-by-charlotte.web.app/
 
+![Image Description](https://pasteboard.co/JlwWBKg.png)
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
