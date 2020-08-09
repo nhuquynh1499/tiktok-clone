@@ -2,7 +2,7 @@
 
 Live Demo: https://tiktok-clone-by-charlotte.web.app/
 
-![Image Description](https://pasteboard.co/JlwWBKg.png)
+![Image Description](https://i.ibb.co/JQKQ8xd/Screenshot-from-2020-08-09-13-59-37.png)
 
 ### `yarn start`
 
